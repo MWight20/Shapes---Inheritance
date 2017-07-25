@@ -1,10 +1,4 @@
-/*
- * Program: assign10
- * Programmer: Michael Wight
- * z-id: z1644029
- * Due Date: 4/20/2016
- *
- *****************************************************************************/
+
 #ifndef SHAPE3_H
 #define SHAPE3_H
 
