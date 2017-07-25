@@ -1,19 +1,13 @@
-/*
- * Program: assign10
- * Programmer: Michael Wight
- * z-id: z1644029
- * Due Date: 4/20/2016
- *
- *****************************************************************************/
-#ifndef H_SHAPE
-#define H_SHAPE
+
+#ifndef SHAPE_H
+#define SHAPE_H
 
 
 /*
     Objective:
-	The Shape class is the base class for assignment 10. It serves as a class
+	The Shape class is the base class for the program. It serves as a class
 	to hold all the base functions, initialized as pure virtual functions.
-	every other class in the assignment is derived based from this class.
+	every other class in the program is derived based from this class.
 ******************************************************************************/
 class Shape {
 public:
